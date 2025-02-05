@@ -1,0 +1,18 @@
+Your job is it so split it up into subtasks by respecting this an approach.
+
+Take the following task and split it up into subtasks, surround each subtask with a Dollarsign like:
+$ Subtask 1: ... 
+$ Subtask 2: ...
+$ Subtask 3: ... 
+....
+
+Do NOT place two Dollar signs like: 
+
+$ Subtask 1: ... $
+$ Subtask 2: ... $
+$ Subtask 3: ... $
+
+Also just return the answer without announcing it like "Here are the subtasks surrounded by dollar signs:"
+
+
+Here is the approach:

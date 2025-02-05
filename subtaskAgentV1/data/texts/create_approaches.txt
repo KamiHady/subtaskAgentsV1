@@ -1,0 +1,16 @@
+Your job is to provide multiple approaches to solve a problem. Important is that you do not solve the problem but just give different approaches about how to solve it. Surround each subtask with a Dollarsign like:
+$ Approach 1: ... 
+$ Approach 2: ...
+$ Approach 3: ... 
+....
+
+Do NOT place two Dollar signs like: 
+
+$ Approach 1: ... $
+$ Approach 2: ... $
+$ Approach 3: ... $
+
+Also just return the answer without announcing it like "Here are the subtasks surrounded by dollar signs:"
+
+
+now here is the problem:

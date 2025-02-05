@@ -1,0 +1,1 @@
+If the text mentions seeing something or vision in general, return yes, otherwise no.
